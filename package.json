@@ -1,0 +1,1 @@
+{"name":"manamer-website","version":"1.0.0","private":true,"scripts":{"build":"node scripts/build.mjs","check":"node --check public/app.js"},"engines":{"node":">=20"}}
